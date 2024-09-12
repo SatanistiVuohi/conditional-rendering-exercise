@@ -12,6 +12,7 @@ function App() {
 
   return (
     <div>
+      <h3>Welcome!!</h3>
       <button onClick={loginPressed}>{buttonText}</button>
     </div>
   );
